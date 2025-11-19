@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momoperv123&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats-tawny-five-83.vercel.app/api/top-langs/?username=momoperv123&exclude_repo=github-readme-stats,dotfiles,sQR,multiplayer-chess&custom_title=Hi%20there%20%F0%9F%91%8B&layout=compact&card_width=350)](https://github.com/momoperv123)
